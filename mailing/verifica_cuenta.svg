@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 620 567">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-verifica_cuenta);
+      }
+
+      .cls-2, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #2b75e0;
+      }
+
+      .cls-4 {
+        fill: #ddd70b;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #282828;
+      }
+
+      .cls-5 {
+        font-size: 22px;
+      }
+
+      .cls-5, .cls-8 {
+        font-family: Lato-Bold, Lato;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        font-size: 14px;
+      }
+
+      .cls-6, .cls-7 {
+        font-family: Lato-Regular, Lato;
+      }
+
+      .cls-7 {
+        fill: #7e7e7e;
+        font-size: 11px;
+      }
+
+      .cls-8 {
+        font-size: 13px;
+      }
+
+      .cls-9 {
+        fill: #f8255e;
+      }
+
+      .cls-10, .cls-11 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-10 {
+        stroke: #7e7e7e;
+        stroke-width: 0.75px;
+      }
+
+      .cls-11 {
+        stroke: #efefef;
+      }
+
+      .cls-12 {
+        fill: #efefef;
+      }
+    </style>
+    <clipPath id="clip-verifica_cuenta">
+      <rect width="620" height="567"/>
+    </clipPath>
+  </defs>
+  <g id="verifica_cuenta" class="cls-1">
+    <rect class="cls-12" width="620" height="567"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-2" width="531" height="401" transform="translate(44 45)"/>
+    <g id="Group_505" data-name="Group 505" transform="translate(266.933 79.369)">
+      <path id="Path_478" data-name="Path 478" class="cls-3" d="M124.035,0h24.4a.753.753,0,0,1,.735.735V25.622a.753.753,0,0,1-.735.735h-8.72a.79.79,0,0,0-.441.147L133.2,31.3a.745.745,0,0,1-1.176-.588V27.091a.753.753,0,0,0-.735-.735h-7.251a.753.753,0,0,1-.735-.735V.735A.753.753,0,0,1,124.035,0Z" transform="translate(-62.903)"/>
+      <g id="Group_502" data-name="Group 502" transform="translate(65.149 3.87)">
+        <path id="Path_479" data-name="Path 479" class="cls-4" d="M133.343,26.271a.379.379,0,0,1-.343-.392V8.145a.231.231,0,0,1,.245-.245h4.213c.2,0,.294.1.294.245V25.977c0,.147-.147.343-.294.343h-4.115Z" transform="translate(-133 -7.9)"/>
+        <path id="Path_480" data-name="Path 480" class="cls-4" d="M147.878,26.271a.335.335,0,0,1-.343-.343V13.142c0-.2-.147-.294-.343-.294h-2.45a.416.416,0,0,1-.343-.343V8.145a.231.231,0,0,1,.245-.245h10.484c.2,0,.343.1.343.294v4.311a.335.335,0,0,1-.343.343h-2.45c-.2,0-.294.147-.294.343V25.977a.335.335,0,0,1-.343.343h-4.164Z" transform="translate(-138.815 -7.9)"/>
+      </g>
+      <g id="Group_504" data-name="Group 504" transform="translate(-0.015 3.968)">
+        <g id="Group_503" data-name="Group 503">
+          <path id="Path_481" data-name="Path 481" d="M17.286,8.1a.437.437,0,0,1,.49.539l-2.5,17.293a.549.549,0,0,1-.588.49H11.848a.573.573,0,0,1-.588-.49L8.859,15.2,6.41,25.932c-.1.294-.245.49-.588.49H2.981a.517.517,0,0,1-.588-.49L-.008,8.639A.437.437,0,0,1,.482,8.1h2.45a.5.5,0,0,1,.539.49L4.744,19.564h.147l2.6-11.023A.543.543,0,0,1,8.076,8.1H9.692a.576.576,0,0,1,.588.441l2.547,11.023h.147L14.3,8.59c.049-.343.2-.49.539-.49Z" transform="translate(0.015 -8.1)"/>
+          <path id="Path_482" data-name="Path 482" d="M41,11.872C41,9.423,42.323,8.1,44.772,8.1h2.939c2.449,0,3.772,1.323,3.772,3.772V22.65c0,2.45-1.323,3.772-3.772,3.772H44.772C42.323,26.422,41,25.1,41,22.65Zm6.124,11.219a.909.909,0,0,0,1.029-1.029v-9.5a.909.909,0,0,0-1.029-1.029H45.458a.909.909,0,0,0-1.029,1.029v9.5a.909.909,0,0,0,1.029,1.029h1.666Z" transform="translate(-20.907 -8.1)"/>
+          <path id="Path_483" data-name="Path 483" d="M78.184,17.163a3.42,3.42,0,0,1-1.47,3.184l1.372,5.634a.349.349,0,0,1-.343.49H75.2a.429.429,0,0,1-.441-.343l-1.274-5.144H71.129v5.095a.411.411,0,0,1-.441.441H68.141a.411.411,0,0,1-.441-.441V8.541a.411.411,0,0,1,.441-.441h6.271c2.45,0,3.772,1.323,3.772,3.772Zm-4.409.392A.909.909,0,0,0,74.8,16.526V12.558a.909.909,0,0,0-1.029-1.029h-2.6V17.6h2.6Z" transform="translate(-34.526 -8.1)"/>
+          <path id="Path_484" data-name="Path 484" d="M102.926,26.471a.591.591,0,0,1-.588-.392l-3.282-6.467-.98,1.862v4.458a.49.49,0,0,1-.539.539h-2.5a.49.49,0,0,1-.539-.539V8.639a.49.49,0,0,1,.539-.539h2.5a.49.49,0,0,1,.539.539v6.81l4.017-6.957a.637.637,0,0,1,.588-.392h2.743c.392,0,.588.294.343.637l-4.458,7.838,4.752,9.259c.2.343.049.588-.392.588h-2.743Z" transform="translate(-48.197 -8.1)"/>
+        </g>
+      </g>
+    </g>
+    <text id="Verifica_tu_cuenta" data-name="Verifica tu cuenta" class="cls-5" transform="translate(224 172)"><tspan x="0" y="0">Verifica tu cuenta</tspan></text>
+    <text id="_Gracias_por_haberte_registrado_en_Work_IT_Para_continuar_comenzar_a_buscar_oportunidades_encontrar_talento_es_necesario_que_verifiques_tu_cuenta_sólo_debes_acceder_al_siguiente_enlace." data-name="¡Gracias por haberte registrado en Work IT! 
+Para continuar comenzar a buscar oportunidades/encontrar talento es necesario que verifiques tu cuenta, sólo debes acceder al siguiente enlace." class="cls-6" transform="translate(111 204)"><tspan x="65.58" y="14">¡Gracias por haberte registrado en Work IT! </tspan><tspan x="17.42" y="31">Para continuar comenzar a buscar oportunidades/encontrar </tspan><tspan x="2.944" y="48">talento es necesario que verifiques tu cuenta, sólo debes acceder </tspan><tspan x="141.705" y="65">al siguiente enlace.</tspan></text>
+    <text id="WorkIT_todos_los_derechos_reservados_2017_Acuerdo_de_privacidad" data-name="WorkIT, todos los derechos reservados, 2017 | Acuerdo de privacidad" class="cls-7" transform="translate(111 516)"><tspan x="33.544" y="11">WorkIT, todos los derechos reservados, 2017 | Acuerdo de privacidad</tspan></text>
+    <text id="Si_no_fuiste_tú_quien_se_registró_con_este_correo_electrónico_por_favor_contáctanos." data-name="Si no fuiste tú quien se registró con este correo electrónico, por favor contáctanos." class="cls-7" transform="translate(111 406)"><tspan x="3.536" y="11">Si no fuiste tú quien se registró con este correo electrónico, por favor contáctanos.</tspan></text>
+    <g id="Ver_todas_boton" data-name="Ver todas boton" transform="translate(206 305)">
+      <g id="Group_253" data-name="Group 253">
+        <path id="Path_157" data-name="Path 157" class="cls-3" d="M207.9,46.6H.8a.86.86,0,0,1-.8-.8V.8A.86.86,0,0,1,.8,0H207.9a.86.86,0,0,1,.8.8v45C208.6,46.2,208.3,46.6,207.9,46.6Z"/>
+      </g>
+      <g id="Group_252" data-name="Group 252" transform="translate(7 -1)">
+        <text id="VERIFICAR_CUENTA" data-name="VERIFICAR CUENTA" class="cls-8" transform="translate(35.157 28.151)"><tspan x="0" y="0">VERIFICAR CUENTA</tspan></text>
+      </g>
+    </g>
+    <path id="Path_15" data-name="Path 15" class="cls-9" d="M587,313.3a16,16,0,1,0,16,16A16.047,16.047,0,0,0,587,313.3Zm4.2,10.6h-1.5c-1.2,0-1.4.6-1.4,1.4v1.8h2.8l-.4,2.8h-2.4v7.3h-2.9V330h-2.5v-2.8h2.5V325a3.493,3.493,0,0,1,3.7-3.8c1,0,1.9.1,2.2.1v2.6Z" transform="translate(-326 156)"/>
+    <path id="Path_16" data-name="Path 16" class="cls-9" d="M637.4,313.3a16,16,0,1,0,16,16A16.047,16.047,0,0,0,637.4,313.3Zm6.4,12.7v.4a9.256,9.256,0,0,1-9.3,9.3,8.447,8.447,0,0,1-5-1.5h.8a6.56,6.56,0,0,0,4.1-1.4,3.439,3.439,0,0,1-3.1-2.3c.2,0,.4.1.6.1a2.769,2.769,0,0,0,.9-.1,3.228,3.228,0,0,1-2.6-3.2h0a3.313,3.313,0,0,0,1.5.4,3.282,3.282,0,0,1-1.5-2.7,4.711,4.711,0,0,1,.4-1.7,9.032,9.032,0,0,0,6.8,3.4,1.7,1.7,0,0,1-.1-.7,3.329,3.329,0,0,1,3.3-3.3,3.492,3.492,0,0,1,2.4,1,5.387,5.387,0,0,0,2.1-.8,3.192,3.192,0,0,1-1.4,1.8,10.548,10.548,0,0,0,1.9-.5A10.182,10.182,0,0,1,643.8,326Z" transform="translate(-326 156)"/>
+    <path id="Path_17" data-name="Path 17" class="cls-9" d="M685.8,313.3a16,16,0,1,0,16,16A16.047,16.047,0,0,0,685.8,313.3Zm-4.4,24H678V326.6h3.3v10.7Zm-1.7-12.2a1.9,1.9,0,1,1,1.9-1.9A1.839,1.839,0,0,1,679.7,325.1Zm14.1,12.2h-3.3v-5.2c0-1.2,0-2.8-1.7-2.8s-2,1.3-2,2.7v5.3h-3.3V326.6h3.2v1.5h0a3.443,3.443,0,0,1,3.1-1.7c3.4,0,4,2.2,4,5.1Z" transform="translate(-326 156)"/>
+    <line id="Line_9" data-name="Line 9" class="cls-10" x2="109.7" transform="translate(366.8 530.5)"/>
+    <line id="Line_11" data-name="Line 11" class="cls-10" x2="61.7" transform="translate(443.8 420.5)"/>
+    <line id="Line_10" data-name="Line 10" class="cls-11" x2="531.7" transform="translate(43.8 390.5)"/>
+  </g>
+</svg>

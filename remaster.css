@@ -1,0 +1,147 @@
+@media (min-width: 620px) { 
+	.container { 
+		max-width: 620px; 
+	}
+}
+.container.count-verify {
+	padding-top: 3rem;
+	padding-bottom: 2.5rem;
+	margin-left: auto;
+	margin-right: auto;
+}
+.content {
+	// background-color: lime;
+	max-width: 530px;
+	padding-top: 2rem;
+	padding-bottom: 3.5rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+@media (min-width: 620px) { 
+	.content {
+		max-width: 530px;
+		padding-top: 2rem;
+		padding-bottom: 3.5rem;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}	
+.banner {
+	max-width: 100%;
+	margin-bottom: 1.75rem;
+}
+.banner-1 {
+	margin-top: 0;
+	margin-bottom: 9.5rem;
+}
+.matriz4x4 p {
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.frame-round {
+	width: 4rem;
+	height: 4rem;
+	border-radius: 50%;
+	border: 1px solid #282828;
+	margin-left: auto;
+	margin-right: auto;
+}
+.frame-round .fa-search {
+	font-size: 2.5rem;
+	line-height: 4rem;
+}
+.mailing__title {
+	margin-top: 2.5rem;
+	margin-bottom: 1.75rem;
+}
+.mailing__hr {
+	border-top: 1px solid rgba(0,0,0,.1);
+	margin-top: 1.75rem;
+	margin-bottom: 1.75rem;
+}
+.mailing__hr-m {
+	margin-top: 7.625rem;
+	margin-bottom: 1.5rem;
+
+}
+.card.first-vacancy {
+	width: 75%;
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	position: absolute;
+	top: 70%;
+	left: 12.5%;
+}
+.container-2-layer {
+	position: relative;
+}
+.container-2-layer .card-block {
+	padding-top: 1.68rem;
+}
+.container__banner-1 {
+	max-height: 309px;
+	overflow-y: hidden; 
+	margin-bottom:  10rem;
+}
+.container__banner-2 {
+	max-height: 238px;	
+	overflow-y: hidden;
+}
+@media (min-width: 620px) { 
+	.download-app-title {
+		text-align: left;
+		margin-top: 1rem;
+		margin-bottom: 1.875rem;
+	}
+}
+.container__download-app {
+	margin-left: 1rem;
+	margin-right: 1rem;
+}
+@media (min-width: 620px) { 
+	.container__download-app {
+		margin-left: 3.75rem;
+		margin-right: 3.75rem;
+	}
+}	
+.text-footer {
+	color: #7e7e7e;
+}
+.footer__link {
+	color: #7e7e7e;
+}
+.footer__link:focus,
+.footer__link:hover {
+	color: #282828;
+}
+.link {
+	color: #282828;
+	text-decoration: underline;
+}
+.link:focus,
+.link:hover {
+	color: #111;
+	font-style: italic; 
+}
+.asterisk {
+	margin-top: 2.6rem; 
+}
+
+.apple-play-store {
+	display: flex;
+	justify-content: center;
+}
+@media (min-width: 620px) { 
+	.apple-play-store {
+		justify-content: flex-start;
+	}
+}	
+.btn {
+	font-size: .8rem;
+	font-weight: bold;
+}
